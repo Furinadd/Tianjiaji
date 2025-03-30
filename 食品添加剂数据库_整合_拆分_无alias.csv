@@ -1,175 +1,548 @@
 cns,e_number,chinese_name,english_name,category,common_name,function
-8.132,E100,姜黄素,Curcumin,天然,姜黄色素,姜黄根茎提取物;咖喱粉调味料用黄色着色剂
-8.102,E100,姜黄,Turmeric,天然,印度咖喱调味,含多种活性成分
-8.148,E101,核黄素,Riboflavin,天然或合成,维生素B₂,促进代谢;缺乏易口角炎
-8.005,E102,柠檬黄及其铝色淀,Tartrazine,化学合成,黄色5号,可能引发过敏和儿童多动症
-8.016,E104,喹啉黄及其铝色淀,Quinoline Yellow,化学合成,部分国家限制使用,
-8.006,E110,日落黄及其铝色淀,Sunset Yellow FCF,化学合成,黄色6号,过量可致过敏
-17.035,E1105,溶菌酶,Lysozyme,天然,鸡蛋清或发酵来源,用于奶酪和肉制品防腐
-8.145,E120,胭脂虫红及其铝色淀,Carmine,天然,胭脂红（昆虫提取）,素食者慎用
-20.022,E1200,聚葡萄糖,Polydextroses,化学合成,零糖分,适合糖尿病人
-14.01,E1203,聚乙烯醇,Polyvinyl Alcohol,化学合成,不消化,用于药片包衣和口香糖
-14.011,E1204,普鲁兰多糖,Pullulan,天然（发酵）,用于可食用包装膜和糖果,
-8.013,E122,酸性红（偶氮玉红）,Carmoisine (Azorubine),化学合成,部分国家禁用,
-8.001,E123,苋菜红及其铝色淀,Amaranth,化学合成,美国已禁用,
-8.002,E124,胭脂红及其铝色淀,Ponceau 4R,化学合成,红色4号,可能致敏
-8.003,E127,赤藓红及其铝色淀,Erythrosine,化学合成,红色3号,含碘;甲状腺患者慎用
-8.012,E129,诱惑红及其铝色淀,Allura Red,化学合成,红色40号,可能与儿童多动症相关
-8.008,E132,靛蓝及其铝色淀,Indigotine,化学合成,蓝色2号,最初从植物提取现多为合成
-8.007,E133,亮蓝及其铝色淀,Brilliant Blue FCF,化学合成,蓝色1号,过量可能影响注意力
-20.032,E1404,氧化淀粉,Oxidized Starch,天然（改性）,羧基含量0.5-2.5%,3D食品打印基料
-20.03,E1404,氧化淀粉,Oxidized Starch,天然（改性）,透明度高,酸奶和罐头增稠剂
-20.034,E1412,磷酸酯双淀粉,Distarch Phosphate,天然（改性）,糊化温度低,冻融稳定
-20.013,E1412,磷酸酯双淀粉,Distarch Phosphate,天然（改性）,酱料和婴儿食品增稠剂,
-20.035,E1414,乙酰化二淀粉磷酸酯,Acetylated Distarch Phosphate,天然（改性）,硬度120-150g,弹性恢复率≥85%
-20.015,E1414,乙酰化二淀粉磷酸酯,Acetylated Distarch Phosphate,天然（改性）,方便面和肉丸保水剂,
-20.036,E1440,羟丙基淀粉,Hydroxypropyl Starch,天然（改性）,DS≤0.2,缓释材料
-20.014,E1440,羟丙基淀粉,Hydroxypropyl Starch,天然（改性）,耐冷冻增稠剂,
-20.037,E1442,羟丙基二淀粉磷酸酯,Hydroxypropyl Distarch Phosphate,天然（改性）,透明度≥85%,婴儿食品专用
-20.016,E1442,羟丙基二淀粉磷酸酯,Hydroxypropyl Distarch Phosphate,天然（改性）,耐酸增稠剂,
-20.038,E1450,辛烯基琥珀酸淀粉钠,Starch Sodium Octenyl Succinate,天然（改性）,界面张力15mN/m,微胶囊壁材
-10.03,E1450,辛烯基琥珀酸淀粉钠,Starch Sodium Octenyl Succinate,天然（改性）,乳化增稠剂,
-14.012,E460i,微晶纤维素,Microcrystalline Cellulose,天然（改性）,粒径20-200μm,持水能力强;片剂辅料
-14.013,E461,甲基纤维素,Methyl Cellulose,天然（改性）,热凝胶,凝胶强度≥800g/cm²;植物蛋替代品
+0.012,E160c,辣椒油树脂,Paprika Oleoresin,天然,调味料和零食着色,含辣椒素;微辣
+0.014,-,二氧化硫及亚硫酸盐,Sulphur Dioxide,化学合成,漂白剂,防腐剂;过敏风险
+0.017,E386,乙二胺四乙酸二钠,Disodium EDTA,化学合成,EDTA二钠,金属离子封锁剂
+0.021,E516,硫酸钙（石膏）,Calcium Sulfate,天然,豆腐、豆制品凝固剂,
+00.008,E508,氯化钾,Potassium Chloride,天然或合成,-,
+00.008,E508,氯化钾,Potassium Chloride,天然或合成,-,
+00.012,-,辣椒油树脂,Paprika Oleoresin,天然,调味料和零食着色,含辣椒素;微辣
+00.013,-,乙酸钠,Sodium Acetate,化学合成,醋酸钠,
+00.013,-,乙酸钠,Sodium Acetate,化学合成,醋酸钠,食品防腐剂;pH调节
+00.014,-,二氧化硫及亚硫酸盐,Sulphur Dioxide,化学合成,-,
+00.014,-,二氧化硫及亚硫酸盐,Sulphur Dioxide,化学合成,-,
+00.017,-,羟基硬脂精,Oxystearin,化学合成,-,
+00.017,-,羟基硬脂精,Oxystearin,化学合成,-,
+00.021,-,硫酸镁,Magnesium Sulfate,天然,泻盐,
+00.021,-,硫酸镁,Magnesium Sulfate,天然,泻盐,
+01.101,E330,柠檬酸,Citric Acid,天然（发酵）或合成,酸味剂,金属离子螯合剂
+01.101,E330,柠檬酸,Citric Acid,天然（发酵）或合成,-,
+01.102,E270,乳酸,Lactic Acid,天然（发酵）或合成,-,
+01.102,E270,乳酸,Lactic Acid,天然（发酵）或合成,发酵产物,酸味剂;防腐
+01.103,-,柠檬酸一钠,Sodium Dihydrogen Citrate,化学合成,缓冲pH能力稳定,金属离子螯合;罐装海鲜防黑变;奶酪加工助剂;水垢清除
+01.103,-,柠檬酸一钠,Sodium Dihydrogen Citrate,化学合成,缓冲pH能力稳定,金属离子螯合;罐装海鲜防黑变;奶酪加工助剂;水垢清除
+01.104,E336i,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙膨松剂;蛋白霜稳定剂;葡萄酒沉淀物提取;戚风蛋糕关键材料
+01.104,E336i,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙膨松剂;蛋白霜稳定剂;葡萄酒沉淀物提取;戚风蛋糕关键材料
+01.105,E353,偏酒石酸,Metatartaric Acid,化学合成,-,
+01.105,E353,偏酒石酸,Metatartaric Acid,化学合成,葡萄酒稳定剂,防酒石沉淀;抑制晶体生长;最大用量200mg/L
+01.105,E353,偏酒石酸,Metatartaric Acid,化学合成,葡萄酒稳定剂,防酒石沉淀;抑制晶体生长;最大用量200mg/L
+01.105,E353,偏酒石酸,Metatartaric Acid,化学合成,-,
+01.106;15.008,E338-E343,磷酸及磷酸盐类,Phosphoric Acid and Phosphates,化学合成,三聚磷酸钠-持水性好用于火腿,焦磷酸钠-乳化性强用于速溶饮品;六偏磷酸钠-金属离子封锁用于海鲜保鲜
+01.106;15.008,E338,磷酸及磷酸盐,Phosphoric Acid,化学合成,酸味剂,可乐主要酸味来源
+01.106;15.008,-,磷酸及磷酸盐,Disodium Dihydrogen Pyrophosphate,化学合成,面粉改良剂,保水剂
+01.106;15.008,-,磷酸及磷酸盐,Tetrasodium Pyrophosphate,化学合成,肉制品保水,防止变色
+01.106;15.008,-,磷酸及磷酸盐,Calcium Acid Pyrophosphate,化学合成,膨松剂,酸度调节
+01.106;15.008,-,磷酸及磷酸盐,Potassium Polymetaphosphate,化学合成,水分保持,质地改良
+01.106;15.008,-,磷酸及磷酸盐,Trisodium Monohydrogen Diphosphate,化学合成,乳化剂,保水剂
+01.106;15.008,-,磷酸及磷酸盐,Tetrapotassium Pyrophosphate,化学合成,水分保持,金属螯合
+01.106;15.008,-,磷酸及磷酸盐,Disodium Hydrogen Phosphate,化学合成,缓冲剂,乳化稳定
+01.106;15.008,-,磷酸及磷酸盐,Sodium Dihydrogen Phosphate,化学合成,酸度调节,发酵控制
+01.106;15.008,-,磷酸及磷酸盐,Sodium Tripolyphosphate,化学合成,水分保持,蛋白稳定
+01.106;15.008,-,磷酸及磷酸盐,Sodium Polyphosphate,化学合成,六偏磷酸钠,保水剂
+01.106;15.008,-,磷酸及磷酸盐,Trisodium Orthophosphate,化学合成,乳化剂,pH调节
+01.106;15.008,-,磷酸及磷酸盐,Calcium Dihydrogen Phosphate,化学合成,面粉处理剂,补钙剂
+01.106;15.008,-,磷酸及磷酸盐,Calcium Hydrogen Phosphate,化学合成,营养强化,面粉处理
+01.106;15.008,-,磷酸及磷酸盐,Dipotassium Hydrogen Phosphate,化学合成,缓冲剂,乳化稳定
+01.106;15.008,-,磷酸及磷酸盐,Diammonium Hydrogen Phosphate,化学合成,发酵助剂,面粉改良
+01.106;15.008,-,磷酸及磷酸盐,Potassium Dihydrogen Phosphate,化学合成,酸度调节剂,矿物质补充
+01.106;15.008,-,磷酸及磷酸盐,Tripotassium Orthophosphate,化学合成,缓冲剂,蛋白稳定
+01.106;15.008,-,磷酸及磷酸盐,Tricalcium Orthophosphate,化学合成,抗结剂,补钙剂
+01.106;15.008,-,磷酸及磷酸盐,Sodium Polyphosphate,化学合成,六偏磷酸钠,保水剂
+01.106;15.008,-,磷酸及磷酸盐,Dipotassium Hydrogen Phosphate,化学合成,缓冲剂,乳化稳定
+01.106;15.008,-,磷酸及磷酸盐,Diammonium Hydrogen Phosphate,化学合成,发酵助剂,面粉改良
+01.106;15.008,-,磷酸及磷酸盐,Tripotassium Orthophosphate,化学合成,缓冲剂,蛋白稳定
+01.106;15.008,-,磷酸及磷酸盐,Trisodium Orthophosphate,化学合成,乳化剂,pH调节
+01.106;15.008,-,磷酸及磷酸盐,Potassium Dihydrogen Phosphate,化学合成,酸度调节剂,矿物质补充
+01.106;15.008,-,磷酸及磷酸盐,Sodium Tripolyphosphate,化学合成,水分保持,蛋白稳定
+01.106;15.008,-,磷酸及磷酸盐,Sodium Dihydrogen Phosphate,化学合成,酸度调节,发酵控制
+01.106;15.008,-,磷酸及磷酸盐,Disodium Hydrogen Phosphate,化学合成,缓冲剂,乳化稳定
+01.106;15.008,-,磷酸及磷酸盐,Tetrapotassium Pyrophosphate,化学合成,水分保持,金属螯合
+01.106;15.008,-,磷酸及磷酸盐,Calcium Dihydrogen Phosphate,化学合成,面粉处理剂,补钙剂
+01.106;15.008,-,磷酸及磷酸盐,Calcium Hydrogen Phosphate,化学合成,营养强化,面粉处理
+01.106;15.008,-,磷酸及磷酸盐,Tetrasodium Pyrophosphate,化学合成,肉制品保水,防止变色
+01.106;15.008,-,磷酸及磷酸盐,Trisodium Monohydrogen Diphosphate,化学合成,乳化剂,保水剂
+01.106;15.008,-,磷酸及磷酸盐,Disodium Dihydrogen Pyrophosphate,化学合成,面粉改良剂,保水剂
+01.106;15.008,E338,磷酸及磷酸盐,Phosphoric Acid,化学合成,酸味剂,可乐主要酸味来源
+01.106;15.008,-,磷酸及磷酸盐,Potassium Polymetaphosphate,化学合成,水分保持,质地改良
+01.106;15.008,-,磷酸及磷酸盐,Calcium Acid Pyrophosphate,化学合成,膨松剂,酸度调节
+01.106;15.008,E338-E343,磷酸及磷酸盐类,Phosphoric Acid and Phosphates,化学合成,三聚磷酸钠-持水性好用于火腿,焦磷酸钠-乳化性强用于速溶饮品;六偏磷酸钠-金属离子封锁用于海鲜保鲜
+01.106;15.008,-,磷酸及磷酸盐,Tricalcium Orthophosphate,化学合成,抗结剂,补钙剂
+01.107,E260,冰乙酸,Acetic Acid,天然或合成,冰醋酸,食品酸度调节剂;防腐保鲜
+01.107,E260,冰乙酸,Acetic Acid,天然或合成,冰醋酸,
+01.108,E507,盐酸,Hydrochloric Acid,化学合成,-,
+01.108,E507,盐酸,Hydrochloric Acid,化学合成,-,
+01.109,E355,己二酸,Adipic Acid,化学合成,-,
+01.109,E355,己二酸,Adipic Acid,化学合成,酸味温和持久,尼龙生产原料;固体饮料酸味剂;凝胶糖果酸化
+01.109,E355,己二酸,Adipic Acid,化学合成,酸味温和持久,尼龙生产原料;固体饮料酸味剂;凝胶糖果酸化
+01.109,E355,己二酸,Adipic Acid,化学合成,-,
+01.110,E297,富马酸,Fumaric Acid,化学合成,-,
+01.110,E297,富马酸,Fumaric Acid,化学合成,酸味剂,pH调节
+01.111;01.313,E334,L(+)-酒石酸/dl-酒石酸,Tartaric Acid,天然或合成,酸味剂,葡萄酒澄清剂
+01.111;01.313,E334,L(+)-酒石酸/dl-酒石酸,Tartaric Acid,天然或合成,酸味剂,葡萄酒澄清剂
+01.202,E526,氢氧化钙,Calcium Hydroxide,化学合成,熟石灰,
+01.202,E526,氢氧化钙,Calcium Hydroxide,化学合成,熟石灰,
+01.203,E525,氢氧化钾,Potassium Hydroxide,化学合成,苛性钾,
+01.203,E525,氢氧化钾,Potassium Hydroxide,化学合成,苛性钾,
+01.301,-,碳酸钾,Potassium Carbonate,化学合成,-,
+01.301,-,碳酸钾,Potassium Carbonate,化学合成,-,
+01.302,-,碳酸钠,Sodium Carbonate,化学合成,苏打,
+01.302,-,碳酸钠,Sodium Carbonate,化学合成,苏打,
+01.303,-,柠檬酸钠,Trisodium Citrate,化学合成,乳制品稳定剂,抗凝血剂
+01.303,-,柠檬酸钠,Trisodium Citrate,化学合成,乳制品稳定剂,抗凝血剂
+01.304,-,柠檬酸钾,Tripotassium Citrate,化学合成,酸度调节剂,运动饮料电解质
+01.304,-,柠檬酸钾,Tripotassium Citrate,化学合成,酸度调节剂,运动饮料电解质
+01.305,-,碳酸氢三钠（倍半碳酸钠）,Sodium Sesquicarbonate,化学合成,-,
+01.305,-,碳酸氢三钠（倍半碳酸钠）,Sodium Sesquicarbonate,化学合成,-,
+01.306,-,柠檬酸一钠,Sodium Dihydrogen Citrate,化学合成,酸度调节剂,pH缓冲剂
+01.306,-,柠檬酸一钠,Sodium Dihydrogen Citrate,化学合成,酸度调节剂,pH缓冲剂
+01.307,-,碳酸氢钾,Potassium Hydrogen Carbonate,化学合成,-,
+01.307,-,碳酸氢钾,Potassium Hydrogen Carbonate,化学合成,-,
+01.309,E296,DL-苹果酸,DL-Malic Acid,化学合成,酸味剂,果味增强
+01.309,E296,DL-苹果酸,DL-Malic Acid,化学合成,-,
+01.310,E327,乳酸钙,Calcium Lactate,天然或合成,-,
+01.310,E327,乳酸钙,Calcium Lactate,天然或合成,面粉改良剂,补钙剂
+01.311,-,富马酸一钠,Monosodium Fumarate,化学合成,-,
+01.311,-,富马酸一钠,Monosodium Fumarate,化学合成,参与三羧酸循环,pH调节范围广;即食面调味包;植物蛋白饮料
+01.311,-,富马酸一钠,Monosodium Fumarate,化学合成,-,
+01.311,-,富马酸一钠,Monosodium Fumarate,化学合成,参与三羧酸循环,pH调节范围广;即食面调味包;植物蛋白饮料
+01.312,E576,葡萄糖酸钠,Sodium Gluconate,化学合成,-,
+01.312,E576,葡萄糖酸钠,Sodium Gluconate,化学合成,-,
+01.314,-,DL-苹果酸钠,Sodium DL-Malate,化学合成,-,
+01.314,-,DL-苹果酸钠,Sodium DL-Malate,化学合成,-,
+02.001;02.008,E535,亚铁氰化钾/钠,Potassium/Sodium Ferrocyanide,化学合成,-,
+02.001;02.008,E535,亚铁氰化钾/钠,Potassium/Sodium Ferrocyanide,化学合成,-,
+02.004,E551,二氧化硅,Silicon Dioxide,化学合成,硅胶,
+02.004,E551,二氧化硅,Silicon Dioxide,化学合成,硅胶,
+02.004,E551,二氧化硅,Silicon Dioxide,化学合成,奶粉防结块剂,调味料防潮剂
+02.004,E551,二氧化硅,Silicon Dioxide,化学合成,奶粉防结块剂,调味料防潮剂
+02.005,-,微晶纤维素,Microcrystalline Cellulose,天然（改性）,-,
+02.005,-,微晶纤维素,Microcrystalline Cellulose,天然（改性）,-,
+02.006,-,硬脂酸镁,Magnesium Stearate,化学合成,-,
+02.006,-,硬脂酸镁,Magnesium Stearate,化学合成,-,
+02.006,E470b,硬脂酸镁,Magnesium Stearate,化学合成,药片润滑剂,抗结剂;粉状食品防结块剂
+02.006,E470b,硬脂酸镁,Magnesium Stearate,化学合成,药片润滑剂,抗结剂;粉状食品防结块剂
+02.009,E552,硅酸钙,Calcium Silicate,化学合成,-,
+02.009,E552,硅酸钙,Calcium Silicate,化学合成,-,
+02.010,-,柠檬酸铁铵,Ferric Ammonium Citrate,化学合成,-,
+02.010,-,柠檬酸铁铵,Ferric Ammonium Citrate,化学合成,-,
+02.012,E460,纤维素,Cellulose,天然,-,
+02.012,E460,纤维素,Cellulose,天然,-,
+03.007,E900,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,耐高温-40℃~200℃;油炸食品防溅油;果汁消泡;粉状食品抗结块
+03.007,-,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,
+03.007,-,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,
+03.007,E900,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,耐高温-40℃~200℃;油炸食品防溅油;果汁消泡;粉状食品抗结块
+04.001,E320,丁基羟基茴香醚,Butylated Hydroxyanisole,化学合成,BHA,油脂抗氧化剂
+04.001,E320,丁基羟基茴香醚,Butylated Hydroxyanisole,化学合成,BHA,
+04.002,E321,二丁基羟基甲苯,Butylated Hydroxytoluene,化学合成,BHT,
+04.002,E321,二丁基羟基甲苯,Butylated Hydroxytoluene,化学合成,BHT,油脂抗氧化剂
+04.003,E310,没食子酸丙酯,Propyl Gallate,化学合成,PG,
+04.003,E310,没食子酸丙酯,Propyl Gallate,化学合成,PG,油脂抗氧化剂
+04.004,E315,D-异抗坏血酸,Erythorbic Acid,化学合成,-,
+04.004,E315,D-异抗坏血酸,Erythorbic Acid,化学合成,抗氧化剂,肉制品护色
+04.006,E391,植酸,Phytic Acid,天然,米糠豆类来源,抗氧化剂;矿物质螯合剂
+04.006,E391,植酸,Phytic Acid,天然,米糠豆类来源,抗氧化剂;矿物质螯合剂
+04.006;04.025,-,植酸/植酸钠,Phytic Acid/Sodium Phytate,天然,肌醇六磷酸,
+04.006;04.025,-,植酸/植酸钠,Phytic Acid/Sodium Phytate,天然,肌醇六磷酸,
+04.007,E319,特丁基对苯二酚,Tertiary Butylhydroquinone,化学合成,TBHQ,
+04.007,E319,特丁基对苯二酚,Tertiary Butylhydroquinone,化学合成,TBHQ,油脂抗氧化剂
+04.009,E302,抗坏血酸钙,Calcium Ascorbate,天然或合成,抗氧化剂,维生素C补充
+04.009,E302,抗坏血酸钙,Calcium Ascorbate,天然或合成,-,
+04.010,E322,磷脂,Lecithins,天然,大豆卵磷脂,
+04.010,E322,磷脂,Lecithins,天然,大豆卵磷脂,天然乳化剂
+04.011,E304,抗坏血酸棕榈酸酯,Ascorbyl Palmitate,天然（改性）,-,
+04.011,E304,抗坏血酸棕榈酸酯,Ascorbyl Palmitate,天然（改性）,油脂抗氧化剂,
+04.012,-,硫代二丙酸二月桂酯,Dilauryl Thiodipropionate,化学合成,-,
+04.012,-,硫代二丙酸二月桂酯,Dilauryl Thiodipropionate,化学合成,-,
+04.013,E586,4-己基间苯二酚,4-Hexylresorcinol,化学合成,-,
+04.013,E586,4-己基间苯二酚,4-Hexylresorcinol,化学合成,-,
+04.014,E300,抗坏血酸,Ascorbic Acid,天然或合成,维生素C,抗氧化;营养强化
+04.014,E300,抗坏血酸,Ascorbic Acid,天然或合成,维生素C,
+04.015,E301,抗坏血酸钠,Sodium Ascorbate,天然或合成,-,
+04.015,E301,抗坏血酸钠,Sodium Ascorbate,天然或合成,抗氧化剂,肉制品护色
+04.016,E307,维生素E,Vitamin E,天然或合成,混合生育酚,抗氧化;营养强化
+04.016,E307,维生素E,Vitamin E,天然或合成,混合生育酚,
+04.017,E392,迷迭香提取物,Rosemary Extract,天然,-,
+04.017,E392,迷迭香提取物,Rosemary Extract,天然,-,
+04.018,E316,D-异抗坏血酸钠,Sodium Erythorbate,化学合成,-,
+04.018,E316,D-异抗坏血酸钠,Sodium Erythorbate,化学合成,抗氧化剂,护色剂
+04.020,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,EDTA钙钠,罐头护色剂;金属离子螯合剂
+04.020,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,EDTA钙钠,
+04.020,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,EDTA钙钠,罐头护色剂;金属离子螯合剂
+04.020,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,EDTA钙钠,
+05.001,E220,二氧化硫,Sulphur Dioxide,化学合成,-,
+05.001,E220,二氧化硫,Sulphur Dioxide,化学合成,漂白剂,防腐剂;过敏风险
+05.002,E221,亚硫酸钠,Sodium Sulphite,化学合成,-,
+05.002,E221,亚硫酸钠,Sodium Sulphite,化学合成,防腐剂,抗氧化剂
+05.003,E222,亚硫酸氢钠,Sodium Hydrogen Sulphite,化学合成,防腐剂,漂白剂
+05.003,E222,亚硫酸氢钠,Sodium Hydrogen Sulphite,化学合成,-,
+05.004,E223,焦亚硫酸钠,Sodium Metabisulphite,化学合成,防腐剂,抗氧化剂
+05.004,E223,焦亚硫酸钠,Sodium Metabisulphite,化学合成,-,
+05.005,E224,焦亚硫酸钾,Potassium Metabisulphite,化学合成,防腐剂,漂白剂
+05.005,E224,焦亚硫酸钾,Potassium Metabisulphite,化学合成,-,
+06.001,-,碳酸氢钠,Sodium Hydrogen Carbonate,化学合成,小苏打,
+06.001,-,碳酸氢钠,Sodium Hydrogen Carbonate,化学合成,小苏打,
+06.001,E500ii,碳酸氢钠,Sodium Hydrogen Carbonate,化学合成,小苏打,烘焙膨松剂;多功能清洁剂
+06.001,E500ii,碳酸氢钠,Sodium Hydrogen Carbonate,化学合成,小苏打,烘焙膨松剂;多功能清洁剂
+06.002,-,碳酸氢铵,Ammonium Hydrogen Carbonate,化学合成,臭粉,
+06.002,-,碳酸氢铵,Ammonium Hydrogen Carbonate,化学合成,臭粉,
+06.004,E522,硫酸铝钾,Aluminium Potassium Sulphate,化学合成,钾明矾,油条膨松剂;粉丝制作剂
+06.004,E522,硫酸铝钾,Aluminium Potassium Sulphate,化学合成,钾明矾,油条膨松剂;粉丝制作剂
+06.004;06.005,E523,硫酸铝铵（铵明矾）,Aluminium Ammonium Sulphate,化学合成,铵矾,
+06.004;06.005,E523,硫酸铝铵（铵明矾）,Aluminium Ammonium Sulphate,化学合成,铵矾,
+06.004;06.005,E522,硫酸铝钾（钾明矾）,Aluminium Potassium Sulphate,化学合成,明矾,
+06.004;06.005,E522,硫酸铝钾（钾明矾）,Aluminium Potassium Sulphate,化学合成,明矾,
+06.007,E336,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙发酵剂
+06.007,E336,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙发酵剂
+06.009,-,碳酸铵,Ammonium Carbonate,化学合成,-,
+06.009,-,碳酸铵,Ammonium Carbonate,化学合成,-,
+08.001,E123,苋菜红及其铝色淀,Amaranth,化学合成,美国已禁用,
+08.002,E124,胭脂红及其铝色淀,Ponceau 4R,化学合成,红色4号,可能致敏
+08.003,E127,赤藓红及其铝色淀,Erythrosine,化学合成,红色3号,含碘;甲状腺患者慎用
+08.005,E102,柠檬黄及其铝色淀,Tartrazine,化学合成,黄色5号,可能引发过敏和儿童多动症
+08.006,E110,日落黄及其铝色淀,Sunset Yellow FCF,化学合成,黄色6号,过量可致过敏
+08.007,E133,亮蓝及其铝色淀,Brilliant Blue FCF,化学合成,蓝色1号,过量可能影响注意力
+08.008,E132,靛蓝及其铝色淀,Indigotine,化学合成,蓝色2号,最初从植物提取现多为合成
+08.009;08.155,-,叶绿素铜钠盐/钾盐,Chlorophyllin Copper Complex,天然,绿色食品着色,具有除臭作用
+08.010,-,β-胡萝卜素,Beta-Carotene,天然或合成,人造黄油着色,维生素A前体
+08.010,-,β-胡萝卜素,Beta-Carotene,天然或合成,-,
+08.010,-,β-胡萝卜素,Beta-Carotene,天然或合成,-,
+08.011,E171,二氧化钛,Titanium Dioxide,化学合成,钛白粉,
+08.011,E171,二氧化钛,Titanium Dioxide,化学合成,钛白粉,纳米颗粒存在争议;欧盟2022年禁用
+08.012,E129,诱惑红及其铝色淀,Allura Red,化学合成,红色40号,可能与儿童多动症相关
+08.013,E122,酸性红（偶氮玉红）,Carmoisine (Azorubine),化学合成,部分国家禁用,
+08.014,-,氧化铁黑,Iron Oxide Black,化学合成,-,
+08.014,-,氧化铁黑,Iron Oxide Black,化学合成,黑色食品着色,补铁;不溶于水
+08.015,-,氧化铁红,Iron Oxide Red,化学合成,-,
+08.015,-,氧化铁红,Iron Oxide Red,化学合成,红色食品着色,补铁;难被吸收
+08.016,E104,喹啉黄及其铝色淀,Quinoline Yellow,化学合成,部分国家限制使用,
+08.017,-,番茄红素,Lycopene,天然或合成,抗氧化剂,保护心血管;番茄或发酵法生产
+08.017,-,番茄红素,Lycopene,天然或合成,-,
+08.018,E160e,β-阿朴-8'-胡萝卜素醛,Beta-Apo-8'-Carotenal,化学合成,-,
+08.101,E162,甜菜红,Beet Red,天然,甜菜根提取物,天然红色素;对pH敏感
+08.101,E162,甜菜红,Beet Red,天然,甜菜根提取物,
+08.102,-,姜黄,Turmeric,天然,印度咖喱调味,含多种活性成分
+08.106,-,辣椒红,Paprika Red,天然,天然红色素,辣椒提取物;含辣椒素;可能带轻微辣味
+08.108,E150a,焦糖色（普通法）,Caramel Colour Class I,天然或化学处理,焦糖色素,可乐和酱油着色;最安全的焦糖色
+08.109,E150d,焦糖色（亚硫酸铵法）,Caramel Colour Class IV,天然或化学处理,焦糖色素,酱油着色
+08.110,E150c,焦糖色（加氨生产）,Caramel Colour Class III,天然或化学处理,焦糖色素,饮料着色
+08.112,-,栀子黄,Gardenia Yellow,天然,栀子果实提取物,
+08.112,-,栀子黄,Gardenia Yellow,天然,栀子果实提取物,传统中药;耐热性好
+08.122,-,黑加仑红,Black Currant Red,天然,-,
+08.122,-,黑加仑红,Black Currant Red,天然,富含维生素C,天然色素;用于酸奶和果冻
+08.123,-,栀子蓝,Gardenia Blue,天然,栀子果实提取物,天然蓝色素;可与栀子黄调绿
+08.123,-,栀子蓝,Gardenia Blue,天然,栀子果实提取物,
+08.132,-,姜黄素,Curcumin,天然,姜黄色素,姜黄根茎提取物;咖喱粉调味料用黄色着色剂
+08.135,-,葡萄皮红,Grape Skin Extract,天然,抗氧化剂,天然色素;含多酚类物质
+08.135,-,葡萄皮红,Grape Skin Extract,天然,-,
+08.138,E153,植物炭黑,Vegetable Carbon,天然,炭黑（植物来源）,用于黑色饼干和芝士着色
+08.144,E160b,胭脂树橙（红木素）,Annatto Extracts,天然,奶酪和黄油天然着色剂,红木种子提取
+08.145,E120,胭脂虫红及其铝色淀,Carmine,天然,胭脂红（昆虫提取）,素食者慎用
+08.146,-,叶黄素,Lutein,天然,-,
+08.147,-,天然胡萝卜素,Natural Carotene,天然,天然橙黄色素,抗氧化剂
+08.148,-,核黄素,Riboflavin,天然或合成,维生素B₂,促进代谢;缺乏易口角炎
+08.148,-,核黄素,Riboflavin,天然或合成,维生素B₂,
+08.149,E160e,β-阿朴-8'-胡萝卜素醛,β-apo-8'-Carotenal,天然或合成,色价≥2500,耐光性强;限用于特定奶酪
+08.149,E160e,β-阿朴-8'-胡萝卜素醛,β-apo-8'-Carotenal,天然或合成,色价≥2500,耐光性强;限用于特定奶酪
+08.149,E160e,β-阿朴-8'-胡萝卜素醛,β-apo-8'-Carotenal,天然或合成,色价≥2500,耐光性强;限用于特定奶酪
+08.150,E161b,叶黄素,Lutein,天然,EFSA认证保护视力,微胶囊技术提高水溶性
+08.150,E161b,叶黄素,Lutein,天然,EFSA认证保护视力,微胶囊技术提高水溶性
+08.150,E161b,叶黄素,Lutein,天然,EFSA认证保护视力,微胶囊技术提高水溶性
+08.151,E150b,焦糖色（苛性硫酸盐法）,Caramel Colour Class II,天然或化学处理,焦糖色素,酱料着色
+08.153,-,叶绿素铜,Copper Chlorophyll,天然,用于口香糖和薄荷糖的绿色着色,
+09.001,E251,硝酸钠,Sodium Nitrate,化学合成,-,
+09.001,E251,硝酸钠,Sodium Nitrate,化学合成,腌肉护色,可转化为亚硝酸盐
+09.002,E249,亚硝酸钾,Potassium Nitrite,化学合成,-,
+09.002,E249,亚硝酸钾,Potassium Nitrite,化学合成,肉制品防腐,过量致癌
+09.003,E252,硝酸钾,Potassium Nitrate,化学合成,-,
+09.003,E252,硝酸钾,Potassium Nitrate,化学合成,肉制品防腐,护色剂
+09.004,E250,亚硝酸钠,Sodium Nitrite,化学合成,-,
+09.004,E250,亚硝酸钠,Sodium Nitrite,化学合成,火腿防腐,可生成亚硝胺
+09.005,E579,葡萄糖酸亚铁,Ferrous Gluconate,化学合成,-,
+09.005,E579,葡萄糖酸亚铁,Ferrous Gluconate,化学合成,-,
+1.101,E330,柠檬酸,Citric Acid,天然（发酵）或合成,酸味剂,金属离子螯合剂
+1.106,E338,磷酸,Phosphoric Acid,化学合成,可乐主要酸味来源,
+1.107,E260,冰乙酸,Acetic Acid,天然或合成,冰醋酸,食品酸度调节剂
+1.108,E507,盐酸,Hydrochloric Acid,化学合成,淀粉水解剂,pH调节
+1.11,E297,富马酸,Fumaric Acid,化学合成,pH调节剂,固体酸味剂
+1.302,E500i,碳酸钠,Sodium Carbonate,化学合成,苏打,中和剂;面条改良剂
+1.307,E501,碳酸氢钾,Potassium Hydrogen Carbonate,化学合成,低钠食品膨松剂,
+1.309,E296,DL-苹果酸,DL-Malic Acid,化学合成,酸味剂,果味增强
+10.002,E433,吐温80,Polysorbate 80,化学合成,冰淇淋乳化剂,维生素脂溶性载体
+10.006,E471,单双甘油脂肪酸酯,Mono-and Diglycerides of Fatty Acids,天然（改性）或合成,面包柔软剂,冰淇淋乳化剂;最常用食品乳化剂
+10.006,E471,单双甘油脂肪酸酯,Mono-and Diglycerides of Fatty Acids,天然（改性）或合成,-,
+10.006,E471,单双甘油脂肪酸酯,Mono-and Diglycerides of Fatty Acids,天然（改性）或合成,-,
+10.006,E471,单双甘油脂肪酸酯,Mono-and Diglycerides of Fatty Acids,天然（改性）或合成,面包柔软剂,冰淇淋乳化剂;最常用食品乳化剂
+10.008,E491,司盘60,Sorbitan Monostearate,化学合成,巧克力乳化剂,
+10.009,E391,植酸,Phytic Acid,天然,米糠、豆类提取,矿物质螯合剂
+10.011,E392,迷迭香提取物,Rosemary Extract,天然,抗氧化剂,耐高温油脂保鲜
+10.011;10.009,-,硬脂酰乳酸钠/钙,Sodium/Calcium Stearoyl Lactylate,化学合成,-,
+10.011;10.009,-,硬脂酰乳酸钠/钙,Sodium/Calcium Stearoyl Lactylate,化学合成,-,
+10.022,E475,聚甘油脂肪酸酯,Polyglycerol Esters,化学合成,蛋糕稳定剂,耐高温乳化剂
+10.024,E491,司盘60,Sorbitan Monostearate,化学合成,巧克力乳化剂,人造奶油乳化剂;与吐温系列复配
+10.024,E491,司盘60,Sorbitan Monostearate,化学合成,巧克力乳化剂,人造奶油乳化剂;与吐温系列复配
+10.024;10.008,E492,司盘65,Sorbitan Tristearate,化学合成,-,
+10.024;10.008,E491,司盘60,Sorbitan Monostearate,化学合成,-,
+10.024;10.008,E494,司盘80,Sorbitan Monooleate,化学合成,-,
+10.024;10.008,E491,司盘60,Sorbitan Monostearate,化学合成,-,
+10.024;10.008,E492,司盘65,Sorbitan Tristearate,化学合成,-,
+10.024;10.008,E493,司盘20,Sorbitan Monolaurate,化学合成,-,
+10.024;10.008,E493,司盘20,Sorbitan Monolaurate,化学合成,-,
+10.024;10.008,E494,司盘80,Sorbitan Monooleate,化学合成,-,
+10.024;10.008,E495,司盘40,Sorbitan Monopalmitate,化学合成,-,
+10.024;10.008,E495,司盘40,Sorbitan Monopalmitate,化学合成,-,
+10.025,E476,聚甘油蓖麻醇酸酯,Polyglycerol Polyricinoleate,化学合成,PGPR,降低巧克力粘度;替代部分可可脂
+10.025;10.026,E432,吐温20,Polysorbate 20,化学合成,聚山梨醇酯20,
+10.025;10.026,E433,吐温80,Polysorbate 80,化学合成,聚山梨醇酯80,
+10.025;10.026,E434,吐温40,Polysorbate 40,化学合成,聚山梨醇酯40,
+10.025;10.026,E435,吐温60,Polysorbate 60,化学合成,聚山梨醇酯60,
+10.025;10.026,E433,吐温80,Polysorbate 80,化学合成,聚山梨醇酯80,
+10.025;10.026,E434,吐温40,Polysorbate 40,化学合成,聚山梨醇酯40,
+10.025;10.026,E435,吐温60,Polysorbate 60,化学合成,聚山梨醇酯60,
+10.025;10.026,E432,吐温20,Polysorbate 20,化学合成,聚山梨醇酯20,
+10.026,E477,丙二醇脂肪酸酯,Propylene Glycol Esters,化学合成,冰淇淋抗融剂,冷冻面团改良剂
 10.027,E470b,硬脂酸镁,Magnesium Stearate,化学合成,润滑剂,纳米级D50≤10μm;比表面积≥15m²/g
 10.028,E471,单双甘油脂肪酸酯,Mono and Diglycerides of Fatty Acids,化学合成,单酯含量≥90%,模拟母乳脂肪球膜
-20.039,E1443,抗性淀粉,Resistant Starch,天然（改性）,低GI值烘焙,血糖应答降低40%
-8.153,E140,叶绿素铜,Copper Chlorophyll,天然,用于口香糖和薄荷糖的绿色着色,
-8.009,E141,叶绿素铜钠盐/钾盐,Chlorophyllin Copper Complex,天然,绿色食品着色,具有除臭作用
-20.013,E1410,淀粉磷酸酯钠,Sodium Starch Phosphate,天然（改性）,冷冻食品抗结块剂,
-8.108,E150a,焦糖色（普通法）,Caramel Colour Class I,天然或化学处理,焦糖色素,可乐和酱油着色;最安全的焦糖色
-18.004,E1520,丙二醇,Propylene Glycol,化学合成,糕点保湿剂,香精溶剂;高剂量可能伤肾
-8.138,E153,植物炭黑,Vegetable Carbon,天然,炭黑（植物来源）,用于黑色饼干和芝士着色
-8.01,E160a,β-胡萝卜素,Beta-Carotene,天然或合成,人造黄油着色,维生素A前体
-0.012,E160c,辣椒油树脂,Paprika Oleoresin,天然,调味料和零食着色,含辣椒素;微辣
-8.101,E162,甜菜红,Beet Red,天然,甜菜根提取物,对pH敏感
-8.135,E163,葡萄皮红,Grape Skin Extract,天然,抗氧化剂,天然色素;含多酚类物质
-8.122,E163,黑加仑红,Black Currant Red,天然,富含维生素C,天然色素;用于酸奶和果冻
-17.003,E200,山梨酸,Sorbic Acid,化学合成,抑制霉菌生长,比苯甲酸更安全
-17.004,E202,山梨酸钾,Potassium Sorbate,化学合成,较安全的防腐剂,抑制霉菌
+10.029,E442,铵磷脂,Ammonium Phosphatide,化学合成,巧克力粘度改良剂,丙酮不溶物≥60%
+10.03,E1450,辛烯基琥珀酸淀粉钠,Starch Sodium Octenyl Succinate,天然（改性）,乳化增稠剂,
+10.030,E1450,辛烯基琥珀酸淀粉钠,Starch Sodium Octenyl Succinate,天然（改性）,乳化增稠剂,
+10.031,E472b,乳酸脂肪酸甘油酯,Lactic Acid Esters,化学合成,面包保质期延长剂,表面张力32mN/m
+10.032,E472a,乙酰化单甘油脂肪酸酯,Acetylated Monoglycerides,化学合成,巧克力抗霜,人造奶油稳定剂;总乙酸15-40%
+10.033,E442,铵磷脂,Ammonium Phosphatide,化学合成,巧克力粘度改良剂,丙酮不溶物≥60%
+10.041,E445,木松香甘油酯,Glycerol Ester of Wood Rosin,化学合成,口香糖基础剂,枞酸型树脂酸≥80%
+10.042,E999,皂树皮提取物,Quillaia Extract,天然,南美传统饮料起泡剂,根啤泡沫增强
+10.043,-,达瓦树胶,Ghatti Gum,天然,-,
+10.043,-,达瓦树胶,Ghatti Gum,天然,-,
+11.011,E960a,甜菊糖苷,Steviol Glycosides,天然,甜菊叶提取物,零热量甜味剂;不影响血糖
+11.011,E960a,甜菊糖苷,Steviol Glycosides,天然,甜菊叶提取物,零热量甜味剂;不影响血糖
+11.012,E955,三氯蔗糖,Sucralose,化学合成,高倍甜度甜味剂,耐高温;不被代谢
+11.012,E955,三氯蔗糖,Sucralose,化学合成,高倍甜度甜味剂,耐高温;不被代谢
+11.013,E968,赤藓糖醇,Erythritol,天然（发酵）,零热量甜味剂,不升血糖;口感好
+11.013,E968,赤藓糖醇,Erythritol,天然（发酵）,零热量甜味剂,不升血糖;口感好
+12.001,E586,4-己基间苯二酚,4-Hexylresorcinol,化学合成,防止虾类黑变,海鲜保鲜剂
+12.002,E627,5'-鸟苷酸二钠,Disodium 5'-Guanylate,化学合成,-,
+12.002,E627,5'-鸟苷酸二钠,Disodium 5'-Guanylate,化学合成,-,
+12.003,E631,5'-肌苷酸二钠,Disodium 5'-Inosinate,化学合成,-,
+12.003,E631,5'-肌苷酸二钠,Disodium 5'-Inosinate,化学合成,-,
+12.004,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotide,化学合成,I+G,
+12.004,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotide,化学合成,I+G,
+12.005,-,琥珀酸二钠,Disodium Succinate,化学合成,-,
+12.005,-,琥珀酸二钠,Disodium Succinate,化学合成,-,
+12.007,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotide,天然（发酵）,I+G,与味精复配增鲜;酵母提取物
+13.003,E905a,白油（液体石蜡）,Mineral Oil,化学合成,润滑剂,水果表面涂层
+13.005,E504,碳酸镁,Magnesium Carbonate,天然或合成,抗结剂,运动饮料补镁
+13.006,E170,碳酸钙,Calcium Carbonate,天然或合成,补钙剂,面粉抗结剂
+14.001,E901,蜂蜡,Beeswax,天然,水果保鲜剂,糖果光泽剂
+14.002,E903,巴西棕榈蜡,Carnauba Wax,天然,棕榈树叶提取物,巧克力抛光剂;药片包衣剂
+14.002,E903,巴西棕榈蜡,Carnauba Wax,天然,棕榈树叶提取物,巧克力抛光剂;药片包衣剂
+14.003,E904,紫胶（虫胶）,Shellac,天然,水果打蜡剂,药片包衣
+14.008,E903,巴西棕榈蜡,Carnauba Wax,天然,-,
+14.008,E903,巴西棕榈蜡,Carnauba Wax,天然,-,
+14.009,E570,硬脂酸,Stearic Acid,天然或合成,-,
+14.009,E570,硬脂酸,Stearic Acid,天然或合成,-,
+14.01,E1203,聚乙烯醇,Polyvinyl Alcohol,化学合成,不消化,用于药片包衣和口香糖
+14.010,E1203,聚乙烯醇,Polyvinyl Alcohol,化学合成,不消化,用于药片包衣和口香糖
+14.011,E1204,普鲁兰多糖,Pullulan,天然（发酵）,用于可食用包装膜和糖果,
+14.012,E460i,微晶纤维素,Microcrystalline Cellulose,天然（改性）,粒径20-200μm,持水能力强;片剂辅料
+14.013,E461,甲基纤维素,Methyl Cellulose,天然（改性）,热凝胶,凝胶强度≥800g/cm²;植物蛋替代品
+14.014,E464,羟丙基甲基纤维素,Hydroxypropyl Methyl Cellulose,天然（改性）,HPMC,食品级DS≤2.5;缓释包衣材料
+14.015,E425,β-葡聚糖,Beta-Glucan,天然,无酒精啤酒风味,风味匹配度92%
+14.016,E406,琼脂,Agar,天然,琼胶,透明碳酸饮料增稠剂;透明度NTU≤10
+14.017,E1204,普鲁兰多糖,Pullulan,天然（发酵）,可食用包装膜,拉伸强度≥25MPa
+14.018,E419,达瓦树胶,Ghatti Gum,天然,印度Anogeissus树胶,pH2-10稳定;清真认证
+14.019,E445,木松香甘油酯,Glycerol Ester of Wood Rosin,化学合成,口香糖基础剂,枞酸型树脂酸≥80%
+15.011,E327,乳酸钙,Calcium Lactate,天然或合成,钙含量13%,易溶于水;吸收率优于碳酸钙;婴幼儿配方奶粉钙强化;水果保鲜;运动饮料电解质补充
+15.011,E326,乳酸钾,Potassium Lactate,天然或合成,-,
+15.011,E326,乳酸钾,Potassium Lactate,天然或合成,保湿剂,肉制品防腐
+15.011,E327,乳酸钙,Calcium Lactate,天然或合成,钙含量13%,易溶于水;吸收率优于碳酸钙;婴幼儿配方奶粉钙强化;水果保鲜;运动饮料电解质补充
+15.012,E325,乳酸钠,Sodium Lactate,天然或合成,-,
+15.012,E325,乳酸钠,Sodium Lactate,天然或合成,保湿剂,pH调节剂
+15.013,-,聚天冬氨酸钾,Potassium Polyaspartate,化学合成,生物降解率98%,海鲜保鲜剂
+15.014,E422,甘油（丙三醇）,Glycerine,天然或合成,保湿剂,运动饮料增稠
+16.012,E621,谷氨酸钠,Monosodium Glutamate,化学合成,味精,增鲜剂;与核苷酸类协同增效
+16.013,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotides,天然（发酵）,I+G,与味精复配增鲜;酵母发酵产物
+16.013,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotides,天然（发酵）,I+G,与味精复配增鲜;酵母发酵产物
 17.001,E210,苯甲酸,Benzoic Acid,化学合成,常用防腐剂,酸性条件下效果好
 17.002,E211,苯甲酸钠,Sodium Benzoate,化学合成,饮料常用防腐剂,
-17.032,E214,对羟基苯甲酸乙酯,Ethyl p-Hydroxybenzoate,化学合成,尼泊金乙酯,部分国家限用
-5.001,E220,二氧化硫,Sulphur Dioxide,化学合成,漂白剂,防腐剂;过敏风险
-5.002,E221,亚硫酸钠,Sodium Sulphite,化学合成,防腐剂,抗氧化剂
-9.002,E249,亚硝酸钾,Potassium Nitrite,化学合成,肉制品防腐,过量致癌
-9.004,E250,亚硝酸钠,Sodium Nitrite,化学合成,火腿防腐,可生成亚硝胺
-1.107,E260,冰乙酸,Acetic Acid,天然或合成,冰醋酸,食品酸度调节剂
+17.003,E200,山梨酸,Sorbic Acid,化学合成,抑制霉菌生长,比苯甲酸更安全
+17.004,E202,山梨酸钾,Potassium Sorbate,化学合成,较安全的防腐剂,抑制霉菌
+17.005,E282,丙酸钙,Calcium Propionate,化学合成,-,
+17.005,E282,丙酸钙,Calcium Propionate,化学合成,烘焙食品防腐剂,
+17.006,E281,丙酸钠,Sodium Propionate,化学合成,面包保鲜剂,较安全防腐剂
+17.006,E281,丙酸钠,Sodium Propionate,化学合成,-,
+17.007,E215,对羟基苯甲酸乙酯钠,Sodium Ethyl p-Hydroxybenzoate,化学合成,防腐剂,部分国家限用
+17.007,E215,对羟基苯甲酸乙酯钠,Sodium Ethyl p-Hydroxybenzoate,化学合成,-,
+17.009,-,脱氢乙酸,Dehydroacetic Acid,化学合成,-,
+17.009,-,脱氢乙酸,Dehydroacetic Acid,化学合成,果蔬保鲜剂,
+17.010,-,脱氢乙酸钠,Sodium Dehydroacetate,化学合成,饮料防腐剂,
+17.010,-,脱氢乙酸钠,Sodium Dehydroacetate,化学合成,-,
+17.010,-,乙氧基喹,Ethoxyquin,化学合成,-,
+17.010,-,乙氧基喹,Ethoxyquin,化学合成,水产品防腐剂,
+17.013,-,双乙酸钠,Sodium Diacetate,化学合成,二醋酸钠,
+17.013,-,双乙酸钠,Sodium Diacetate,化学合成,二醋酸钠,面包防霉剂
+17.014,E290,二氧化碳,Carbon Dioxide,天然或合成,碳酸饮料气泡剂,包装保鲜
+17.014,E290,二氧化碳,Carbon Dioxide,天然或合成,-,
+17.019,E234,乳酸链球菌素,Nisin,天然（发酵）,天然防腐剂,乳制品保鲜
+17.019,E234,乳酸链球菌素,Nisin,天然（发酵）,-,
+17.028,E920,L-半胱氨酸盐酸盐,L-Cysteine Hydrochloride,天然或合成,面团改良剂,促进谷蛋白形成
 17.029,E280,丙酸,Propionic Acid,化学合成,面包防霉剂,乳制品防腐
+17.030,E235,纳他霉素,Natamycin,天然（发酵）,天然防霉剂,奶酪保鲜
+17.030,E235,纳他霉素,Natamycin,天然（发酵）,-,
+17.032,E214,对羟基苯甲酸乙酯,Ethyl p-Hydroxybenzoate,化学合成,尼泊金乙酯,部分国家限用
+17.033,E242,二甲基二碳酸盐,Dimethyl Dicarbonate,化学合成,维果灵,
+17.033,E242,二甲基二碳酸盐,Dimethyl Dicarbonate,化学合成,维果灵,饮料防腐
+17.035,E1105,溶菌酶,Lysozyme,天然,鸡蛋清或发酵来源,用于奶酪和肉制品防腐
+17.036,E219,对羟基苯甲酸甲酯钠,Sodium Methyl p-Hydroxybenzoate,化学合成,尼泊金甲酯,部分国家限用
+18.001,E511,氯化镁,Magnesium Chloride,天然或合成,卤水豆腐凝固剂,
+18.002,E508,氯化钾,Potassium Chloride,天然或合成,低钠盐替代品,矿物质强化
+18.003,E509,氯化钙,Calcium Chloride,天然或合成,豆腐凝固剂,果蔬保脆剂
+18.004,E1520,丙二醇,Propylene Glycol,化学合成,糕点保湿剂,香精溶剂;高剂量可能伤肾
+18.005,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,罐头护色剂,金属螯合
+18.007,E575,葡萄糖酸-δ-内酯,Glucono Delta-Lactone,化学合成,豆腐凝固剂,肉制品嫩化剂
+18.010,E416,刺梧桐胶,Karaya Gum,天然,-,
+18.010,E416,刺梧桐胶,Karaya Gum,天然,-,
+18.011,-,α-环状糊精,Alpha-Cyclodextrin,化学合成,分子包合技术,缓释香料胶囊
+18.012,-,γ-环状糊精,Gamma-Cyclodextrin,化学合成,胆固醇去除剂,
+18.014,-,聚天冬氨酸钾,Potassium Polyaspartate,化学合成,-,
+18.014,-,聚天冬氨酸钾,Potassium Polyaspartate,化学合成,-,
+19.001,E954,糖精钠,Sodium Saccharin,化学合成,300倍蔗糖甜度,限用于特定食品
+19.002;19.024,-,甜蜜素,Calcium Cyclamate,化学合成,-,
+19.002;19.024,-,甜蜜素,Sodium Cyclamate,化学合成,-,
+19.002;19.024,-,甜蜜素,Calcium Cyclamate,化学合成,-,
+19.002;19.024,-,甜蜜素,Sodium Cyclamate,化学合成,-,
+19.004,E951,阿斯巴甜,Aspartame,化学合成,甜味剂,苯丙酮尿症患者禁用
+19.005,E965,麦芽糖醇,Maltitol,天然或合成,低热量甜味剂,冰淇淋抗结晶
+19.005;19.022,-,麦芽糖醇,Maltitol,天然或合成,-,
+19.005;19.022,-,麦芽糖醇液,Maltitol Syrup,天然或合成,-,
+19.005;19.022,-,麦芽糖醇液,Maltitol Syrup,天然或合成,-,
+19.005;19.022,-,麦芽糖醇,Maltitol,天然或合成,-,
+19.006,E420,山梨糖醇,Sorbitol,天然或合成,保湿剂,无糖糖果甜味剂
+19.006;19.023,-,山梨糖醇/山梨糖醇液,Sorbitol/Sorbitol Syrup,天然或合成,-,
+19.006;19.023,-,山梨糖醇/山梨糖醇液,Sorbitol/Sorbitol Syrup,天然或合成,-,
+19.007,E967,木糖醇,Xylitol,天然或合成,不升血糖,防龋齿甜味剂
+19.008,E960a,甜菊糖苷,Steviol Glycosides,天然,甜菊叶提取物,零热量甜味剂
+19.011,E950,安赛蜜,Acesulfame Potassium,化学合成,高倍甜味剂,零热量
+19.012,E958,甘草酸盐,Ammonium Glycyrrhizinate,天然,甘草甜素,50倍蔗糖甜度
+19.012;19.010,-,甘草酸盐,Ammonium Glycyrrhizinate,天然,甘草甜素,
+19.012;19.010,-,甘草酸盐,Ammonium Glycyrrhizinate,天然,甘草甜素,
+19.013,-,阿力甜,Alitame,化学合成,-,
+19.013,-,阿力甜,Alitame,化学合成,-,
+19.014,E966,乳糖醇,Lactitol,化学合成,零热量甜味剂,适用于烘焙食品
+19.016,E955,三氯蔗糖,Sucralose,化学合成,蔗糖素,耐高温;不被代谢
+19.017,E421,D-甘露糖醇,D-Mannitol,天然或合成,低热量甜味剂,片剂填充剂
+19.018,E968,赤藓糖醇,Erythritol,天然或合成,零热量甜味剂,不升血糖
+19.019,E961,纽甜,Neotame,化学合成,-,
+19.019,E961,纽甜,Neotame,化学合成,-,
+19.02,E957,索马甜,Thaumatin,天然,非洲竹芋提取物,高甜度天然蛋白
+19.020,E957,索马甜,Thaumatin,天然,-,
+19.020,E957,索马甜,Thaumatin,天然,-,
+19.021,E962,天门冬酰苯丙氨酸甲酯乙酰磺胺酸,Aspartame-acesulfame Salt,化学合成,高倍甜味剂,阿斯巴甜复配
+19.022,E965,麦芽糖醇液,Maltitol Syrup,天然或合成,同上（液体形态）,
+19.023,E420,山梨糖醇液,Sorbitol Syrup,天然或合成,同上（液体形态）,
+19.024,E954,甜蜜素,Sodium Cyclamate,化学合成,30倍蔗糖甜度,部分国家禁用
+19.026,E969,爱德万甜,Advantame,化学合成,高倍甜味剂,阿斯巴甜衍生物
+2.001,E526,氢氧化钙,Calcium Hydroxide,化学合成,熟石灰,中和酸性物质
+2.004,E551,二氧化硅,Silicon Dioxide,化学合成,奶粉防结块剂,调味料抗潮剂
+2.005,E460,纤维素,Cellulose,天然,植物细胞壁提取,抗结剂
+2.006,E470b,硬脂酸镁,Magnesium Stearate,化学合成,药片润滑剂,粉状食品抗结块剂
+20.001,E401,海藻酸钠,Sodium Alginate,天然,琼胶,透明碳酸饮料增稠剂
+20.002,-,明胶,Gelatin,天然,动物胶原蛋白提取,软糖定型剂
+20.003,E466,羧甲基纤维素钠,Sodium Carboxymethyl Cellulose,化学合成,CMC-Na,冰淇淋防冰晶剂
+20.004,E418,结冷胶,Gellan Gum,天然（发酵）,低用量高效胶凝剂,植物基人造肉骨架
+20.004,E401,海藻酸钠,Sodium Alginate,天然,褐藻酸钠,分子料理原料
+20.005,E402,海藻酸钾,Potassium Alginate,天然,褐藻酸钾,
+20.005,E402,海藻酸钾,Potassium Alginate,天然,褐藻酸钾,
+20.006,E440,果胶,Pectins,天然,柑橘类果皮提取,果酱增稠剂
+20.007,E407,卡拉胶,Carrageenan,天然,角叉菜胶,乳制品稳定剂
+20.008,E412,瓜尔胶,Guar Gum,天然,瓜尔豆胶,冷水速溶增稠剂
+20.009,E415,黄原胶,Xanthan Gum,天然（发酵）,汉生胶,广泛用于酱料增稠
+20.009,E414,阿拉伯胶,Arabic Gum,天然,金合欢胶,乳化稳定剂
+20.01,E405,海藻酸丙二醇酯,Propylene Glycol Alginate,天然（改性）,酸性条件下稳定,啤酒泡沫增强剂
+20.010,E405,海藻酸丙二醇酯,Propylene Glycol Alginate,天然（改性）,-,
+20.010,E405,海藻酸丙二醇酯,Propylene Glycol Alginate,天然（改性）,-,
+20.013,E1412,磷酸酯双淀粉,Distarch Phosphate,天然（改性）,酱料和婴儿食品增稠剂,
+20.013,E1410,淀粉磷酸酯钠,Sodium Starch Phosphate,天然（改性）,冷冻食品抗结块剂,
+20.014,E1440,羟丙基淀粉,Hydroxypropyl Starch,天然（改性）,耐冷冻增稠剂,
+20.015,E1414,乙酰化二淀粉磷酸酯,Acetylated Distarch Phosphate,天然（改性）,方便面和肉丸保水剂,
+20.016,E1442,羟丙基二淀粉磷酸酯,Hydroxypropyl Distarch Phosphate,天然（改性）,耐酸增稠剂,
+20.017,E1413,磷酸化二淀粉磷酸酯,Phosphated Distarch Phosphate,天然（改性）,耐高温增稠剂,
+20.022,E1200,聚葡萄糖,Polydextroses,化学合成,零糖分,适合糖尿病人
+20.023,E407,卡拉胶,Carrageenan,天然,角叉菜胶,乳制品稳定剂;分κ/ι/λ型
+20.024,E459,β-环状糊精,Beta-Cyclodextrin,化学合成,分子包合技术,缓释香料
+20.025,E410,槐豆胶,Carob Bean Gum,天然,刺槐豆胶,与卡拉胶复配增效
+20.027,E417,刺云实胶,Tara Gum,天然,半乳甘露聚糖≥75%,与黄原胶复配增稠
+20.028,E464,羟丙基甲基纤维素,Hydroxypropyl Methyl Cellulose,化学合成,HPMC,缓释包衣材料
+20.03,E1404,氧化淀粉,Oxidized Starch,天然（改性）,透明度高,酸奶和罐头增稠剂
+20.030,E1404,氧化淀粉,Oxidized Starch,天然（改性）,透明度高,用于酸奶和罐头增稠
+20.031,E1422,乙酰化双淀粉己二酸酯,Acetylated Distarch Adipate,天然（改性）,冷冻食品稳定剂,
+20.032,E1404,氧化淀粉,Oxidized Starch,天然（改性）,羧基含量0.5-2.5%,3D食品打印基料
+20.033,E1404,氧化淀粉,Oxidized Starch,天然（改性）,羧基含量0.5-2.5%,3D食品打印基料
+20.034,E1412,磷酸酯双淀粉,Distarch Phosphate,天然（改性）,糊化温度低,冻融稳定
+20.035,E1414,乙酰化二淀粉磷酸酯,Acetylated Distarch Phosphate,天然（改性）,硬度120-150g,弹性恢复率≥85%
+20.036,E1440,羟丙基淀粉,Hydroxypropyl Starch,天然（改性）,DS≤0.2,缓释材料
+20.037,E1442,羟丙基二淀粉磷酸酯,Hydroxypropyl Distarch Phosphate,天然（改性）,透明度≥85%,婴儿食品专用
+20.038,E1450,辛烯基琥珀酸淀粉钠,Starch Sodium Octenyl Succinate,天然（改性）,界面张力15mN/m,微胶囊壁材
+20.039,E1443,抗性淀粉,Resistant Starch,天然（改性）,低GI值烘焙,血糖应答降低40%
+20.04,E900,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,耐高温-40℃~200℃;油炸食品防溅油;果汁消泡
+20.040,E999,皂树皮提取物,Quillaia Extract,天然,南美传统饮料原料,起泡剂;根啤泡沫增强剂
+20.040,E419,达瓦树胶,Ghatti Gum,天然,印度Anogeissus树胶,pH2-10稳定;清真认证;乳脂替代品载体
+20.040,E999,皂树皮提取物,Quillaia Extract,天然,南美传统饮料原料,起泡剂;根啤泡沫增强剂
+20.040,E419,达瓦树胶,Ghatti Gum,天然,印度Anogeissus树胶,pH2-10稳定;清真认证;乳脂替代品载体
+20.041,E457,α-环状糊精,Alpha-Cyclodextrin,化学合成,分子包合技术,缓释香料胶囊
+20.042,E424,可得然胶,Curdlan,天然（发酵）,热不可逆凝胶,无麸质面包结构剂
+20.043,E461,甲基纤维素,Methyl Cellulose,化学合成,-,
+20.043,E461,甲基纤维素,Methyl Cellulose,化学合成,-,
+20.045,E427,决明胶,Cassia Gum,天然,宠物食品胶体,与卡拉胶协同增效
+20.046,E404,海藻酸钙,Calcium Alginate,天然,褐藻酸钙,果冻定型剂
+20.047,E1205,碱性蛋白酶,Alkaline Protease,天然（发酵）,水解植物蛋白,酱油酿造助剂
+20.048,E1206,中性蛋白酶,Neutral Protease,天然（发酵）,肉制品嫩化,啤酒澄清剂
+3.007,E525,氢氧化钾,Potassium Hydroxide,化学合成,碱水面包改良剂,
+4.001,E320,丁基羟基茴香醚,BHA,化学合成,油脂抗氧化剂,
+4.002,E321,二丁基羟基甲苯,BHT,化学合成,油脂抗氧化剂,
+4.003,E310,没食子酸丙酯,Propyl Gallate,化学合成,PG,油脂抗氧化剂
+4.007,E319,特丁基对苯二酚,TBHQ,化学合成,油脂抗氧化剂,耐高温
+4.01,E322,磷脂,Lecithins,天然,大豆卵磷脂,天然乳化剂
+4.012,E389,硫代二丙酸二月桂酯,Dilauryl Thiodipropionate,化学合成,抗氧化剂,与BHT复配增效
 4.014,E300,抗坏血酸,Ascorbic Acid,天然或合成,维生素C,抗氧化;营养强化
 4.015,E301,抗坏血酸钠,Sodium Ascorbate,天然或合成,抗氧化剂,肉制品护色
 4.016,E304,抗坏血酸棕榈酸酯,Ascorbyl Palmitate,天然（改性）,油脂抗氧化剂,
-4.003,E310,没食子酸丙酯,Propyl Gallate,化学合成,PG,油脂抗氧化剂
-4.007,E319,特丁基对苯二酚,TBHQ,化学合成,油脂抗氧化剂,耐高温
-4.001,E320,丁基羟基茴香醚,BHA,化学合成,油脂抗氧化剂,
-4.002,E321,二丁基羟基甲苯,BHT,化学合成,油脂抗氧化剂,
-4.01,E322,磷脂,Lecithins,天然,大豆卵磷脂,天然乳化剂
-1.101,E330,柠檬酸,Citric Acid,天然（发酵）或合成,酸味剂,金属离子螯合剂
-1.106,E338,磷酸,Phosphoric Acid,化学合成,可乐主要酸味来源,
-6.007,E336,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙膨松剂
-1.309,E296,DL-苹果酸,DL-Malic Acid,化学合成,酸味剂,果味增强
-1.11,E297,富马酸,Fumaric Acid,化学合成,pH调节剂,固体酸味剂
-19.011,E950,安赛蜜,Acesulfame Potassium,化学合成,高倍甜味剂,零热量
-19.004,E951,阿斯巴甜,Aspartame,化学合成,甜味剂,苯丙酮尿症患者禁用
-19.016,E955,三氯蔗糖,Sucralose,化学合成,蔗糖素,耐高温;不被代谢
-19.018,E968,赤藓糖醇,Erythritol,天然或合成,零热量甜味剂,不升血糖
-20.004,E401,海藻酸钠,Sodium Alginate,天然,褐藻酸钠,分子料理原料
-20.001,E401,海藻酸钠,Sodium Alginate,天然,琼胶,透明碳酸饮料增稠剂
-20.007,E407,卡拉胶,Carrageenan,天然,角叉菜胶,乳制品稳定剂
-20.009,E415,黄原胶,Xanthan Gum,天然（发酵）,汉生胶,广泛用于酱料增稠
-20.024,E459,β-环状糊精,Beta-Cyclodextrin,化学合成,分子包合技术,缓释香料
-14.001,E901,蜂蜡,Beeswax,天然,水果保鲜剂,糖果光泽剂
-14.003,E904,紫胶（虫胶）,Shellac,天然,水果打蜡剂,药片包衣
-14.016,E406,琼脂,Agar,天然,琼胶,透明碳酸饮料增稠剂;透明度NTU≤10
-20.025,E410,槐豆胶,Carob Bean Gum,天然,刺槐豆胶,与卡拉胶复配增效
-20.008,E412,瓜尔胶,Guar Gum,天然,瓜尔豆胶,冷水速溶增稠剂
-20.009,E414,阿拉伯胶,Arabic Gum,天然,金合欢胶,乳化稳定剂
-20.023,E407,卡拉胶,Carrageenan,天然,角叉菜胶,乳制品稳定剂;分κ/ι/λ型
-20.004,E418,结冷胶,Gellan Gum,天然（发酵）,低用量高效胶凝剂,植物基人造肉骨架
-20.006,E440,果胶,Pectins,天然,柑橘类果皮提取,果酱增稠剂
-10.033,E442,铵磷脂,Ammonium Phosphatide,化学合成,巧克力粘度改良剂,丙酮不溶物≥60%
-10.041,E445,木松香甘油酯,Glycerol Ester of Wood Rosin,化学合成,口香糖基础剂,枞酸型树脂酸≥80%
-10.025,E476,聚甘油蓖麻醇酸酯,Polyglycerol Polyricinoleate,化学合成,PGPR,降低巧克力粘度;替代部分可可脂
-10.026,E477,丙二醇脂肪酸酯,Propylene Glycol Esters,化学合成,冰淇淋抗融剂,冷冻面团改良剂
-20.042,E424,可得然胶,Curdlan,天然（发酵）,热不可逆凝胶,无麸质面包结构剂
-20.041,E457,α-环状糊精,Alpha-Cyclodextrin,化学合成,分子包合技术,缓释香料胶囊
-18.005,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,罐头护色剂,金属螯合
+4.017,E392,迷迭香提取物,Rosemary Extract,天然,抗氧化剂,耐高温油炸油脂保鲜
 4.02,E385,乙二胺四乙酸二钠钙,Calcium Disodium EDTA,化学合成,金属离子螯合剂,
-0.017,E386,乙二胺四乙酸二钠,Disodium EDTA,化学合成,EDTA二钠,金属离子封锁剂
-4.012,E389,硫代二丙酸二月桂酯,Dilauryl Thiodipropionate,化学合成,抗氧化剂,与BHT复配增效
-10.009,E391,植酸,Phytic Acid,天然,米糠、豆类提取,矿物质螯合剂
-10.011,E392,迷迭香提取物,Rosemary Extract,天然,抗氧化剂,耐高温油脂保鲜
+4.025,E391,植酸/植酸钠,Phytic Acid/Sodium Phytate,天然,米糠提取,抗氧化剂;矿物质螯合剂
+5.001,E220,二氧化硫,Sulphur Dioxide,化学合成,漂白剂,防腐剂;过敏风险
+5.002,E221,亚硫酸钠,Sodium Sulphite,化学合成,防腐剂,抗氧化剂
+5.005,E224,焦亚硫酸钾,Potassium Metabisulphite,化学合成,葡萄酒抗氧化剂,最大残留量≤50mg/L
 6.001,E500ii,碳酸氢钠,Sodium Bicarbonate,化学合成,小苏打,烘焙膨松剂
+6.002,E503,碳酸铵,Ammonium Carbonate,化学合成,膨松剂,需控制残留氨味
 6.004,E522,硫酸铝钾（钾明矾）,Aluminium Potassium Sulphate,化学合成,油条膨松剂,粉丝制作剂
-2.004,E551,二氧化硅,Silicon Dioxide,化学合成,奶粉防结块剂,调味料抗潮剂
-18.007,E575,葡萄糖酸-δ-内酯,Glucono Delta-Lactone,化学合成,豆腐凝固剂,肉制品嫩化剂
-16.012,E621,谷氨酸钠,Monosodium Glutamate,化学合成,味精,增鲜剂;与核苷酸类协同增效
-19.008,E960a,甜菊糖苷,Steviol Glycosides,天然,甜菊叶提取物,零热量甜味剂
-19.007,E967,木糖醇,Xylitol,天然或合成,不升血糖,防龋齿甜味剂
-13.006,E170,碳酸钙,Calcium Carbonate,天然或合成,补钙剂,面粉抗结剂
+6.005,E523,硫酸铝铵（铵明矾）,Aluminium Ammonium Sulphate,化学合成,膨松剂,需控制铝残留
+6.007,E336,酒石酸氢钾,Potassium Bitartrate,天然,塔塔粉,烘焙膨松剂
+6.009,E501,碳酸钾,Potassium Carbonate,化学合成,碱水面条改良剂,
+8.001,E123,苋菜红及其铝色淀,Amaranth,化学合成,美国已禁用,
+8.002,E124,胭脂红及其铝色淀,Ponceau 4R,化学合成,红色4号,可能致敏
+8.003,E127,赤藓红及其铝色淀,Erythrosine,化学合成,红色3号,含碘;甲状腺患者慎用
+8.005,E102,柠檬黄及其铝色淀,Tartrazine,化学合成,黄色5号,可能引发过敏和儿童多动症
+8.006,E110,日落黄及其铝色淀,Sunset Yellow FCF,化学合成,黄色6号,过量可致过敏
+8.007,E133,亮蓝及其铝色淀,Brilliant Blue FCF,化学合成,蓝色1号,过量可能影响注意力
+8.008,E132,靛蓝及其铝色淀,Indigotine,化学合成,蓝色2号,最初从植物提取现多为合成
+8.009,E141,叶绿素铜钠盐/钾盐,Chlorophyllin Copper Complex,天然,绿色食品着色,具有除臭作用
+8.01,E160a,β-胡萝卜素,Beta-Carotene,天然或合成,人造黄油着色,维生素A前体
 8.011,E171,二氧化钛,Titanium Dioxide,化学合成,钛白粉,欧盟2022年禁用
+8.012,E129,诱惑红及其铝色淀,Allura Red,化学合成,红色40号,可能与儿童多动症相关
+8.013,E122,酸性红（偶氮玉红）,Carmoisine (Azorubine),化学合成,部分国家禁用,
 8.014,E172,氧化铁黑,Iron Oxide Black,化学合成,黑色着色剂,补铁作用
 8.015,E172,氧化铁红,Iron Oxide Red,化学合成,红色着色剂,难被人体吸收
+8.016,E104,喹啉黄及其铝色淀,Quinoline Yellow,化学合成,部分国家限制使用,
+8.101,E162,甜菜红,Beet Red,天然,甜菜根提取物,对pH敏感
+8.102,E100,姜黄,Turmeric,天然,印度咖喱调味,含多种活性成分
+8.108,E150a,焦糖色（普通法）,Caramel Colour Class I,天然或化学处理,焦糖色素,可乐和酱油着色;最安全的焦糖色
+8.122,E163,黑加仑红,Black Currant Red,天然,富含维生素C,天然色素;用于酸奶和果冻
+8.132,E100,姜黄素,Curcumin,天然,姜黄色素,姜黄根茎提取物;咖喱粉调味料用黄色着色剂
+8.135,E163,葡萄皮红,Grape Skin Extract,天然,抗氧化剂,天然色素;含多酚类物质
+8.138,E153,植物炭黑,Vegetable Carbon,天然,炭黑（植物来源）,用于黑色饼干和芝士着色
+8.145,E120,胭脂虫红及其铝色淀,Carmine,天然,胭脂红（昆虫提取）,素食者慎用
+8.148,E101,核黄素,Riboflavin,天然或合成,维生素B₂,促进代谢;缺乏易口角炎
 8.149,E160e,β-阿朴-8'-胡萝卜素醛,β-apo-8'-Carotenal,天然或合成,色价≥2500,耐光性强;限用于特定奶酪
 8.15,E161b,叶黄素,Lutein,天然,EFSA认证保护视力,微胶囊技术提高水溶性
-20.033,E1404,氧化淀粉,Oxidized Starch,天然（改性）,羧基含量0.5-2.5%,3D食品打印基料
-20.046,E404,海藻酸钙,Calcium Alginate,天然,褐藻酸钙,果冻定型剂
-20.01,E405,海藻酸丙二醇酯,Propylene Glycol Alginate,天然（改性）,酸性条件下稳定,啤酒泡沫增强剂
-20.027,E417,刺云实胶,Tara Gum,天然,半乳甘露聚糖≥75%,与黄原胶复配增稠
-14.018,E419,达瓦树胶,Ghatti Gum,天然,印度Anogeissus树胶,pH2-10稳定;清真认证
-20.045,E427,决明胶,Cassia Gum,天然,宠物食品胶体,与卡拉胶协同增效
-15.013,-,聚天冬氨酸钾,Potassium Polyaspartate,化学合成,生物降解率98%,海鲜保鲜剂
-10.029,E442,铵磷脂,Ammonium Phosphatide,化学合成,巧克力粘度改良剂,丙酮不溶物≥60%
-10.032,E472a,乙酰化单甘油脂肪酸酯,Acetylated Monoglycerides,化学合成,巧克力抗霜,人造奶油稳定剂;总乙酸15-40%
-10.031,E472b,乳酸脂肪酸甘油酯,Lactic Acid Esters,化学合成,面包保质期延长剂,表面张力32mN/m
-1.302,E500i,碳酸钠,Sodium Carbonate,化学合成,苏打,中和剂;面条改良剂
-6.002,E503,碳酸铵,Ammonium Carbonate,化学合成,膨松剂,需控制残留氨味
-6.009,E501,碳酸钾,Potassium Carbonate,化学合成,碱水面条改良剂,
-1.307,E501,碳酸氢钾,Potassium Hydrogen Carbonate,化学合成,低钠食品膨松剂,
-13.005,E504,碳酸镁,Magnesium Carbonate,天然或合成,抗结剂,运动饮料补镁
-1.108,E507,盐酸,Hydrochloric Acid,化学合成,淀粉水解剂,pH调节
-18.002,E508,氯化钾,Potassium Chloride,天然或合成,低钠盐替代品,矿物质强化
-18.003,E509,氯化钙,Calcium Chloride,天然或合成,豆腐凝固剂,果蔬保脆剂
-18.001,E511,氯化镁,Magnesium Chloride,天然或合成,卤水豆腐凝固剂,
-0.021,E516,硫酸钙（石膏）,Calcium Sulfate,天然,豆腐、豆制品凝固剂,
-6.005,E523,硫酸铝铵（铵明矾）,Aluminium Ammonium Sulphate,化学合成,膨松剂,需控制铝残留
-3.007,E525,氢氧化钾,Potassium Hydroxide,化学合成,碱水面包改良剂,
-2.001,E526,氢氧化钙,Calcium Hydroxide,化学合成,熟石灰,中和酸性物质
-2.005,E460,纤维素,Cellulose,天然,植物细胞壁提取,抗结剂
-20.028,E464,羟丙基甲基纤维素,Hydroxypropyl Methyl Cellulose,化学合成,HPMC,缓释包衣材料
-20.003,E466,羧甲基纤维素钠,Sodium Carboxymethyl Cellulose,化学合成,CMC-Na,冰淇淋防冰晶剂
-19.026,E969,爱德万甜,Advantame,化学合成,高倍甜味剂,阿斯巴甜衍生物
-10.042,E999,皂树皮提取物,Quillaia Extract,天然,南美传统饮料起泡剂,根啤泡沫增强
-20.04,E900,聚二甲基硅氧烷,Polydimethylsiloxane,化学合成,消泡剂,耐高温-40℃~200℃;油炸食品防溅油;果汁消泡
-14.019,E445,木松香甘油酯,Glycerol Ester of Wood Rosin,化学合成,口香糖基础剂,枞酸型树脂酸≥80%
-19.006,E420,山梨糖醇,Sorbitol,天然或合成,保湿剂,无糖糖果甜味剂
-19.023,E420,山梨糖醇液,Sorbitol Syrup,天然或合成,同上（液体形态）,
-19.017,E421,D-甘露糖醇,D-Mannitol,天然或合成,低热量甜味剂,片剂填充剂
-15.014,E422,甘油（丙三醇）,Glycerine,天然或合成,保湿剂,运动饮料增稠
-20.002,-,明胶,Gelatin,天然,动物胶原蛋白提取,软糖定型剂
-10.002,E433,吐温80,Polysorbate 80,化学合成,冰淇淋乳化剂,维生素脂溶性载体
-4.025,E391,植酸/植酸钠,Phytic Acid/Sodium Phytate,天然,米糠提取,抗氧化剂;矿物质螯合剂
-4.017,E392,迷迭香提取物,Rosemary Extract,天然,抗氧化剂,耐高温油炸油脂保鲜
-2.006,E470b,硬脂酸镁,Magnesium Stearate,化学合成,药片润滑剂,粉状食品抗结块剂
-10.022,E475,聚甘油脂肪酸酯,Polyglycerol Esters,化学合成,蛋糕稳定剂,耐高温乳化剂
-19.005,E965,麦芽糖醇,Maltitol,天然或合成,低热量甜味剂,冰淇淋抗结晶
-19.022,E965,麦芽糖醇液,Maltitol Syrup,天然或合成,同上（液体形态）,
-19.014,E966,乳糖醇,Lactitol,化学合成,零热量甜味剂,适用于烘焙食品
-19.02,E957,索马甜,Thaumatin,天然,非洲竹芋提取物,高甜度天然蛋白
-19.012,E958,甘草酸盐,Ammonium Glycyrrhizinate,天然,甘草甜素,50倍蔗糖甜度
-19.021,E962,天门冬酰苯丙氨酸甲酯乙酰磺胺酸,Aspartame-acesulfame Salt,化学合成,高倍甜味剂,阿斯巴甜复配
-20.047,E1205,碱性蛋白酶,Alkaline Protease,天然（发酵）,水解植物蛋白,酱油酿造助剂
-20.048,E1206,中性蛋白酶,Neutral Protease,天然（发酵）,肉制品嫩化,啤酒澄清剂
-13.003,E905a,白油（液体石蜡）,Mineral Oil,化学合成,润滑剂,水果表面涂层
-17.028,E920,L-半胱氨酸盐酸盐,L-Cysteine Hydrochloride,天然或合成,面团改良剂,促进谷蛋白形成
-17.036,E219,对羟基苯甲酸甲酯钠,Sodium Methyl p-Hydroxybenzoate,化学合成,尼泊金甲酯,部分国家限用
-5.005,E224,焦亚硫酸钾,Potassium Metabisulphite,化学合成,葡萄酒抗氧化剂,最大残留量≤50mg/L
+8.153,E140,叶绿素铜,Copper Chlorophyll,天然,用于口香糖和薄荷糖的绿色着色,
+9.002,E249,亚硝酸钾,Potassium Nitrite,化学合成,肉制品防腐,过量致癌
+9.004,E250,亚硝酸钠,Sodium Nitrite,化学合成,火腿防腐,可生成亚硝胺
 9.005,E579,葡萄糖酸亚铁,Ferrous Gluconate,化学合成,补铁剂,谷物强化
-12.001,E586,4-己基间苯二酚,4-Hexylresorcinol,化学合成,防止虾类黑变,海鲜保鲜剂
-12.007,E635,5'-呈味核苷酸二钠,Disodium 5'-Ribonucleotide,天然（发酵）,I+G,与味精复配增鲜;酵母提取物
-19.024,E954,甜蜜素,Sodium Cyclamate,化学合成,30倍蔗糖甜度,部分国家禁用
-19.001,E954,糖精钠,Sodium Saccharin,化学合成,300倍蔗糖甜度,限用于特定食品
-0.014,-,二氧化硫及亚硫酸盐,Sulphur Dioxide,化学合成,漂白剂,防腐剂;过敏风险
-18.011,-,α-环状糊精,Alpha-Cyclodextrin,化学合成,分子包合技术,缓释香料胶囊
-18.012,-,γ-环状糊精,Gamma-Cyclodextrin,化学合成,胆固醇去除剂,
-10.008,E491,司盘60,Sorbitan Monostearate,化学合成,巧克力乳化剂,
